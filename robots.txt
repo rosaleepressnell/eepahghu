@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://opheraing.mevadata.org/sitemap.xml
